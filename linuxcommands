@@ -1,0 +1,20 @@
+linuxcommands
+pwd
+print working directory
+
+cd [directory name]
+change directory
+
+ls
+list all files & directories in pwd
+
+cat>file name
+create new file
+
+cat file name
+display the file content
+
+vi file name
+creates a new file or opens an existing file in vi editor to add or edit text
+
+
