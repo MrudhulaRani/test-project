@@ -1,0 +1,11 @@
+gitcommands
+git clone [url]
+downloads a project and entire its version history from github or Remote repositoty to local project
+git add [file name]
+to send the file from work directory to index staging area
+git commit -m "[message]"
+to send the file from index staging area to Repository object store
+git pull
+downloands bookmark history and incorporates changes
+git push
+uploads all local commits to git hub or Remote repository
