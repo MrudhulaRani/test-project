@@ -1,0 +1,9 @@
+tarch
+remote repositories (which is connected to server)
+local project (which is not connected to the server)
+in local project we have 3 stages 
+those are :
+work directory
+index staging area
+repository object store
+
