@@ -1,0 +1,4 @@
+gitarch
+we have to download the project from Remote repositories (which is connected to the server)to the local project
+tehn we can do any changes in the project
+in local project we have 3 stages those are work directory,index staging area and repository object store
