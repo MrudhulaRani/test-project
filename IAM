@@ -1,0 +1,8 @@
+IAM
+Identity and Access Management
+where we can manage AWS users and their access to AWS accounts and services.
+users
+groups
+IAM access policies
+roles
+
