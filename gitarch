@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 gitarch
 we have to download the project from Remote repositories (which is connected to the server)to the local project
 tehn we can do any changes in the project
 in local project we have 3 stages those are work directory,index staging area and repository object store
+=======
+tarch
+remote repositories (which is connected to server)
+local project (which is not connected to the server)
+in local project we have 3 stages 
+those are :
+work directory
+index staging area
+repository object store
+
+>>>>>>> 247e65b329766458ce075599e514e743d91a771a
