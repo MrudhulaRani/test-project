@@ -18,3 +18,16 @@ vi file name
 creates a new file or opens an existing file in vi editor to add or edit text
 
 
+24/02/2019
+Linux commands  VI EDITOR   10
+i              insert at cursor(goes into insert mode)
+a              write after cursor(")
+o              open a new line(")
+u              undo last changes(")
+U              undo last changes to the entaire line(")
+dd              delete line
+dw or x        delete character or word at cursor
+r                replahi ice character at cursor
+~               change case of individual character
+esc             terminate insert mode
+   
