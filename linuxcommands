@@ -27,7 +27,19 @@ u              undo last changes(")
 U              undo last changes to the entaire line(")
 dd              delete line
 dw or x        delete character or word at cursor
-r                replahi ice character at cursor
+r               replace character at cursor
 ~               change case of individual character
 esc             terminate insert mode
-   
+  
+25/02/2019
+Linux Commands - Directory Structure - 7
+
+/bin            essential user command binaries(binary files)
+/ect            host specific system configuration(configuration files)
+/home           user home directories
+/opt            optional add-on applications software packages
+/tmp            temporary files
+/usr            multi user utilities and applications(user programs)
+/var            variable files
+
+  
