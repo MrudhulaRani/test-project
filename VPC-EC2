@@ -1,0 +1,15 @@
+Virtual Private Cloud and Elastic Compute Cloud
+in VPC  Internet Gateways (IGWs), 
+        Route Tables (RTs), 1 with rout to internet and 1 without route to internet
+        Network Access Control Lists (NACLs),
+        Subnets, 2 public and 2 private
+in EC2  Amazon Machine Image (AMI)
+        Instance Type
+        Elastic Block Storage (EBS)
+        Security Groups
+        IP addressing
+         
+
+
+
+        
