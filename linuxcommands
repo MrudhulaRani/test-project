@@ -42,4 +42,29 @@ Linux Commands - Directory Structure - 7
 /usr            multi user utilities and applications(user programs)
 /var            variable files
 
-  
+26/02/2019
+Linux Commands - 20
+
+ssh -i "Learn2.pem" ec2-user@ec2-13-233-95-69.ap-south-1.compute.amazonaws.com
+
+df                                          file system usage
+du , du -sh ./*                             disc usage
+sudo [command]                              allows a regular user to run programs as a root user
+man  [command]                              display the help information about the command
+echo [text]                                 display or print the text
+grep [word[ [filename]                      saerch or display the word or content maching pattern
+find [folder] -name [filename]              search file
+pwd                                         print working directory
+cd [directory name]                         changing directories
+ls , ls -ltr                                lists the contents of the directory, with time
+cat [file name]                             display a file content
+cat>[file name]                             creats a new text file, here we can add text ,to close we have to enter ctrl+d
+touch [file name]                           create a new empty file
+rm [file name]                              removes or delete the file
+mkdir [folder name]                         creates a new directory
+rmdir [folder name]                         delete a directory or folder
+cp [filename] [new file name]               copy the files
+mv [filename] [new file path]               moves the file
+mv [filename] [new file name]               renames the file
+chmod [permissions[ [filename]              change file permissions
+
